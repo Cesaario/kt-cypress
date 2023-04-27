@@ -1,0 +1,10 @@
+.novoAlunoContainer {
+  display: flex;
+  height: 40px;
+  width: 50vw;
+  gap: 12px;
+}
+
+.novoAlunoContainer button {
+  width: 150px;
+}
